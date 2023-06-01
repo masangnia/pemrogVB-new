@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\PemrogramanVB\Pembelian\obj\Debug\Pembelian.vbproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\PemrogramanVB\Pembelian\obj\Debug\Pembelian.vbproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\PemrogramanVB\Pembelian\obj\Debug\Pembelian.InputDataBarang.resources
+C:\Users\HP\OneDrive\Desktop\PemrogramanVB\Pembelian\obj\Debug\Pembelian.Resources.resources
+C:\Users\HP\OneDrive\Desktop\PemrogramanVB\Pembelian\obj\Debug\Pembelian.vbproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\PemrogramanVB\Pembelian\obj\Debug\Pembelian.vbproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\PemrogramanVB\Pembelian\bin\Debug\Pembelian.exe.config
+C:\Users\HP\OneDrive\Desktop\PemrogramanVB\Pembelian\bin\Debug\Pembelian.exe
+C:\Users\HP\OneDrive\Desktop\PemrogramanVB\Pembelian\bin\Debug\Pembelian.pdb
+C:\Users\HP\OneDrive\Desktop\PemrogramanVB\Pembelian\bin\Debug\Pembelian.xml
+C:\Users\HP\OneDrive\Desktop\PemrogramanVB\Pembelian\obj\Debug\Pembelian.exe
+C:\Users\HP\OneDrive\Desktop\PemrogramanVB\Pembelian\obj\Debug\Pembelian.xml
+C:\Users\HP\OneDrive\Desktop\PemrogramanVB\Pembelian\obj\Debug\Pembelian.pdb
+C:\Users\HP\OneDrive\Desktop\PemrogramanVB\Pembelian\obj\Debug\Pembelian.DataProduksi.resources
